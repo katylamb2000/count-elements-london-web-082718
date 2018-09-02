@@ -9,4 +9,4 @@ def count_elements(array)
     end
   end
 end
-  # @play_area[x] ||= []
+  
