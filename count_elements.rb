@@ -4,7 +4,7 @@ def count_elements(array)
     array.each do |key|
       if key == new_hash.keys
         count += 1
-      @new_hash[key] = count
+      @new_hash[keyto_s] = count
     end
   end
 end
