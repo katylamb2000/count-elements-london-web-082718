@@ -4,5 +4,4 @@ def count_elements(array)
       @hash[key] = value
     end
   end
- end
  
