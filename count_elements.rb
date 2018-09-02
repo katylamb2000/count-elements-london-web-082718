@@ -5,7 +5,7 @@ def count_elements(array)
       if key.to_s == new_hash.keys
         count += 1
       new_hash[key.to_s] = count
-      
+      new_hash
     end
   end
 end
