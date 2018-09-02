@@ -4,7 +4,7 @@ def count_elements(array)
     array.each do |key|
       if key == new_hash.keys
         count += 1
-      @new_hash[key] ||= value
+      @new_hash[key] = value
     end
   end
   # @play_area[x] ||= []
