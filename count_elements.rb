@@ -7,4 +7,5 @@ def count_elements(array)
       @new_hash[key] = count
     end
   end
+end
   # @play_area[x] ||= []
